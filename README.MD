@@ -35,4 +35,4 @@ If you wish to engage me as a developer for your project, feel free to contact m
 
 This package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
-Happy coding!!!!!!!
+
